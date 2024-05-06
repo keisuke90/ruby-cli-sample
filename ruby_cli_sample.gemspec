@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "lib/ruby/cli/sample/version"
+require_relative "lib/ruby_cli_sample/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "ruby-cli-sample"
+  spec.name          = "ruby_cli_sample"
   spec.version       = Ruby::Cli::Sample::VERSION
   spec.authors       = ["KeisukeKuwahara"]
   spec.email         = ["kuwa.90k@gmail.com"]

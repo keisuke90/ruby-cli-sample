@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "ruby_cli_sample"
+
+RubyCliSample::CLI.start
